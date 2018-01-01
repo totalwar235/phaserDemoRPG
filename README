@@ -1,2 +1,4 @@
 run 'http-server'
 go to 'http://localhost:8080/'
+
+we are using tiled to create the map
